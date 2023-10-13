@@ -1,5 +1,8 @@
 # Assign 5 (int value) to 'a' variable;
-
+a=5
+b=4
+c=8
+print((2*a/b)*c)
 # Assign 4 (int value) to 'b' variable;
 
 # Assign 8 (int value) to 'c' variable;
